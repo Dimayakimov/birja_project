@@ -19,13 +19,3 @@
 
 ## Дашборд в Power BI
 ![Скриншот дашборда](Power%20BI/dashboard.jpg)
-
-## Структура проекта
-```text
-stock_market_analysis/
-├── data/                  # Исходные данные (CSV)
-├── sql/                   # SQL-запросы
-├── results/               # Результаты запросов (CSV)
-├── dashboard/             # Файл .pbix и скриншот
-├── insights/              # Бизнес-выводы
-└── README.md              # Описание проекта

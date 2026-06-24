@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Power BI (большие файлы)
+*.pbix
+*.pbit
+
+# Временные файлы
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+
+# Большие данные (если есть)
+*.zip
+*.rar
+*.7z
+data/*.csv
+data/*.xlsx
+
+# Токены и пароли
+.env
+*.key
+*.pem
+secrets.json
